@@ -1,0 +1,4 @@
+C:\Users\Денис\Desktop\Асинхрон\obj\Debug\net9.0\Асинхрон.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Асинхрон\obj\Debug\net9.0\Асинхрон.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Асинхрон\obj\Debug\net9.0\Асинхрон.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Асинхрон\obj\Debug\net9.0\Асинхрон.csproj.CoreCompileInputs.cache
